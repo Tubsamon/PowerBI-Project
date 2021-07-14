@@ -6,3 +6,6 @@ This repository has been created to share my creative dashboards, DAX, and Power
     
     - To analyze liftime value of customers.
  
+[2. RFM Analysis for Customer Segmentation](https://github.com/Tubsamon/PowerBI-Project/tree/main/RFM%20Analysis%20for%20Customer%20Segmentation)
+
+    - To analyze liftime value of customers.
