@@ -10,5 +10,6 @@
   - Design dashboard.
 3. You can get a step-by-step guide from my medium by clicking on the link. >> https://ploiitubsamon.medium.com/how-to-create-a-clv-dashboard-in-power-bi-ebbf4d41f22d
 4. The sample dashboard that I created with Power BI is shown below. You can also see a sample dashboard by [clicking here](https://app.powerbi.com/view?r=eyJrIjoiMmMwYTEzN2YtYzNkNy00MDcxLWE1MjItOTA3YjZhMjRmY2U1IiwidCI6ImRiNWRlZjZiLThmZDgtNGEzZS05MWRjLThkYjI1MDFhNjgyMiIsImMiOjEwfQ%3D%3D).
+5. For pbix file, you can download [here](https://github.com/Tubsamon/PowerBI-Project/blob/main/Customer%20Lifetime%20Value/CLV%20Prototype%20Dashboard.pbix).
 
  ![](https://github.com/Tubsamon/BADS7105-CRM/blob/main/Homework%2005%20-%20Customer%20Lifetime%20Value%20Dashboard/Pic1.jpeg?raw=true)
